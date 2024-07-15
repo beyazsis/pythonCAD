@@ -1,4 +1,4 @@
-# **İnşaat Mühendisleri İçin Autocad Otomasyonu**
+# **İnşaat Mühendisleri İçin Autocad Otomasyonu (Güncel Olarak Geliştiriliyor)**
 
 Bu proje, İnşaat Mühendislerinin **Autocad** üzerindeki iş akışlarını **Python** kullanarak otomatikleştirmelerine yardımcı olmayı amaçlamaktadır. Aşağıda, projede yer alan ana dosyalar ve işlevleri hakkında detaylı bilgiler bulabilirsiniz.
 
